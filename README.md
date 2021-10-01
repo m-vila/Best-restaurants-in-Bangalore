@@ -37,8 +37,9 @@ These were my conclusions:
 **Recommendations to open a new restaurant**
 
 There are more cheap/affordable restaurants than expensive ones, this says a lot about the preferences about habitants in Bangalore, this is why I would go for an affordable restaurant:
-        a) Chains are popular, so if the first restaurant goes well then I would invest in turning it into a chain
-        b) Offer online order - as it is a differential added value
-        c) Cuisine: there are no good cheap Chinese or Biryani restaurants
-        d) Location: there are no good cheap restaurants in Koramangala 4th Block, Jayanagar, Koramangala 7th Block, Koramangala 5th Block
+
+    a) Chains are popular, so if the first restaurant goes well then I would invest in turning it into a chain
+    b) Offer online order - as it is a differential added value
+    c) Cuisine: there are no good cheap Chinese or Biryani restaurants
+    d) Location: there are no good cheap restaurants in Koramangala 4th Block, Jayanagar, Koramangala 7th Block, Koramangala 5th Block
 
