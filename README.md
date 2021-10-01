@@ -1,12 +1,16 @@
 # Best-restaurants-in-Bangalore
 
-This project is an example of exploratory data analysis, working with [a dataset from Kaggle](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants).
+**The Dataset**
+For this analysis, I chose the following [dataset from Kaggle](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants).
 
-My business case was: "What do successful restaurants in Bangalore have in common?"
-In order to determine that I researched the general trends from highly rated restaurants (affordable and expensive ones).
+**The Business Case**
+A client X has hired us to do some business analysis of the restaurant offer in Bangalore, India. The client is interested in opening a new restaurant and is open in terms of the theme and the type (food chain/ fancy restaurant). X just wants it to be different and, of course, successful. 
+
+**The Approach**
+In order to determine the formula for success I researched the general trends from highly rated restaurants (affordable and expensive ones).
 Did they offered online order? Where were they located? Which food did they offered? What is their cost?
 
-These were my conclusions:
+**The Conclusions**
 
 **General trends from the restaurants**
 
@@ -36,10 +40,10 @@ These were my conclusions:
 
 **Recommendations to open a new restaurant**
 
-There are more cheap/affordable restaurants than expensive ones, this says a lot about the preferences about habitants in Bangalore, this is why I would go for an affordable restaurant:
+There are more affordable restaurants than expensive ones, this says a lot about the preferences about habitants in Bangalore, this is why I would go for an affordable restaurant:
 
-    a) Chains are popular, so if the first restaurant goes well then I would invest in turning it into a chain
-    b) Offer online order - as it is a differential added value
-    c) Cuisine: there are no good cheap Chinese or Biryani restaurants
-    d) Location: there are no good cheap restaurants in Koramangala 4th Block, Jayanagar, Koramangala 7th Block, Koramangala 5th Block
+    a) Chains are popular, so if the first restaurant goes well then I would invest in turning it into a chain.
+    b) Offer online order - it could be a differential added value. 
+    c) Cuisine: there are no good cheap Chinese or Biryani restaurants.
+    d) Location: there are no good cheap restaurants in Koramangala 4th Block, Jayanagar, Koramangala 7th Block or Koramangala 5th Block.
 
