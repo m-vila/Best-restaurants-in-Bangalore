@@ -3,7 +3,7 @@
 This project is an example of exploratory data analysis, working with [a dataset from Kaggle](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants).
 
 My business case was: "What do successful restaurants in Bangalore have in common?"
-In order to determine that I researched the general trends from highly rated restaurants (cheap and expensive ones).
+In order to determine that I researched the general trends from highly rated restaurants (affordable and expensive ones).
 Did they offered online order? Where were they located? Which food did they offered? What is their cost?
 
 These were my conclusions:
@@ -17,11 +17,11 @@ These were my conclusions:
     5) The top 5 preferred cuisines are: North Indian, Chinese, South Indian & Biryani
     6) The average cost for 2 pax is 555. Which means that there are more cheap restaurants than expensive ones.
     7) The top 5 neighborhoods with restaurants are: BTM, Koramangala 7th, 5th, 4th & 6th Block
-    8) It looks like there is a moderate correlation between average_cost and rates and votes. 
+    8) It looks like there is a moderate correlation between average_cost and rates and votes, which is expected. 
     There is a strong correlation between average_cost and the option to book a table. We can venture that if you can book a table, 
     the restaurant will most likely be expensive.
     
-**General trends from cheap restaurants**
+**General trends from affordable restaurants**
     
     1) Most of the restaurants do not offer online order (60.5%).
     2) The top 3 preferred cuisines are: South Indian, Modern Indian, North Indian.
