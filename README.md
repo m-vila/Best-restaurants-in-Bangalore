@@ -1,16 +1,17 @@
 # Best-restaurants-in-Bangalore
 
-**The Dataset**
+<u>**The Dataset**</u>
 For this analysis, I chose the following [dataset from Kaggle](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants).
 
-**The Business Case**
+<u>**The Business Case**</u>
+
 A client X has hired us to do some business analysis of the restaurant offer in Bangalore, India. The client is interested in opening a new restaurant and is open in terms of the theme and the type (food chain/ fancy restaurant). X just wants it to be different and, of course, successful. 
 
-**The Approach**
+<u>**The Approach**</u>
 In order to determine the formula for success I researched the general trends from highly rated restaurants (affordable and expensive ones).
 Did they offered online order? Where were they located? Which food did they offered? What is their cost?
 
-**The Conclusions**
+<u>**The Conclusions**</u>
 
 **General trends from the restaurants**
 
