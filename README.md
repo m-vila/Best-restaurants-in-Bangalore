@@ -30,12 +30,12 @@ Did they offered online order? Where were they located? Which food did they offe
     
 **General trends from affordable restaurants**
     
-    1) Most of the restaurants do not offer online order (60.5%).
+    1) Most of the restaurants do not offer table booking (60.5%).
     2) The top 3 preferred cuisines are: South Indian, Modern Indian, North Indian.
     3) The top 3 locations are: BTM, Brigade road, Malleshwaram.
     4) The top 3 offered dishes are: chicken, pizza & pasta/ & The drinks: cocktails & mocktails.
     
-**Trends from expensive restaurants** (the sample is pretty small to generalize)
+**Trends from expensive restaurants** (Please note that the sample is too small to generalize)
 
     1) Do not offer online order.
     2) They offer the possibility of booking a table.
@@ -43,10 +43,8 @@ Did they offered online order? Where were they located? Which food did they offe
 
 **Recommendations to open a new restaurant**
 
-There are more affordable restaurants than expensive ones, this says a lot about the preferences about habitants in Bangalore, this is why I would go for an affordable restaurant:
-
     a) Chains are popular, so if the first restaurant goes well then I would invest in turning it into a chain.
-    b) Offer online order - it could be a differential added value. 
+    b) Offer online order and table booking - it could be a differential added value. 
     c) Cuisine: there are no good cheap Chinese or Biryani restaurants.
     d) Location: there are no good cheap restaurants in Koramangala 4th Block, Jayanagar, Koramangala 7th Block or Koramangala 5th Block.
 
